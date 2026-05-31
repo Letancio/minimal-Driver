@@ -7,5 +7,8 @@ error_log
 # VS Code
 .vscode/
 
+# Upload
+.uploads/
+
 # SQL
 database.sqlite
