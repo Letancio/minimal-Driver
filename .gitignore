@@ -1,1 +1,11 @@
 /vendor/
+
+# Logs
+error_log
+*/error_log
+
+# VS Code
+.vscode/
+
+# SQL
+database.sqlite
