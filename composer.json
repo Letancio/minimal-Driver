@@ -1,0 +1,17 @@
+{
+    "name": "snipe/minimal-driver",
+    "description": "sistema de gestão de arquivos para hospedagens simples ou servidores locais que suportam o php",
+    "autoload": {
+        "psr-4": {
+            "Snipe\\MinimalDriver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Letancio Marinho",
+            "email": "61944081+Letancio@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
